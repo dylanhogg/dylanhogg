@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--
+
 [![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanhogg&count_private=true&show_icons=true)](https://github.com/dylanhogg/github-readme-stats)
 
 <a href="https://github.com/dylanhogg/github-readme-stats">
@@ -15,6 +17,8 @@
 <a href="https://github.com/dylanhogg/address-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dylanhogg&repo=address-app" />
 </a>
+
+-->
 
 <!--
 **dylanhogg/dylanhogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
