@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there, thanks for visiting 👋
+
+Hand-picked Python libraries, with a bias towards data and machine learning -> [www.awesomepython.org](https://www.awesomepython.org/) 🚀  
+
+[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanhogg&count_private=true&show_icons=true)](https://github.com/dylanhogg?tab=repositories)
 
 <!--
-
-[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanhogg&count_private=true&show_icons=true)](https://github.com/dylanhogg/github-readme-stats)
-
-<a href="https://github.com/dylanhogg/github-readme-stats">
+<a href="https://github.com/dylanhogg/crazy-awesome-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dylanhogg&repo=crazy-awesome-python" />
 </a>
 <a href="https://github.com/dylanhogg/crazy-awesome-crypto">
@@ -17,7 +18,6 @@
 <a href="https://github.com/dylanhogg/address-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dylanhogg&repo=address-app" />
 </a>
-
 -->
 
 <!--
