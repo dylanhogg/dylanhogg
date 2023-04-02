@@ -4,6 +4,8 @@ Hand-picked Python libraries, with a bias towards data and machine learning -> [
 
 [![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanhogg&count_private=true&show_icons=true)](https://github.com/dylanhogg?tab=repositories)
 
+![](https://komarev.com/ghpvc/?username=dylanhogg&style=flat-square)
+
 <!--
 <a href="https://github.com/dylanhogg/crazy-awesome-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dylanhogg&repo=crazy-awesome-python" />
