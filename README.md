@@ -1,10 +1,15 @@
 ### Hi there, thanks for visiting 👋
 
-Hand-picked Python libraries, with a bias towards data and machine learning -> [www.awesomepython.org](https://www.awesomepython.org/) 🚀  
+Featured repo: Awesome Python - Hand-picked Python libraries, with a bias towards data and machine learning:  
+[www.awesomepython.org](https://www.awesomepython.org/) 🚀  
+[github.com/dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python)  
 
+
+<!--
 [![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanhogg&count_private=true&show_icons=true)](https://github.com/dylanhogg?tab=repositories)
 
 ![](https://komarev.com/ghpvc/?username=dylanhogg&style=flat-square)
+-->
 
 <!--
 <a href="https://github.com/dylanhogg/crazy-awesome-python">
